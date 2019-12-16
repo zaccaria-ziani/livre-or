@@ -4,7 +4,7 @@
 <head>
     <title>Livre-Or</title>
     <link rel="stylesheet" href="livre-or.css">
-    <<link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet">
 
 </head>
 <body class="body">
