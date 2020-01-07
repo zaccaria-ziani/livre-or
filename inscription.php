@@ -32,7 +32,7 @@ if (isset($_SESSION['login'])):
                                 endif; ?>
                         <?php else: ?>
                             <li><a href="http://localhost/livre-or/index.php">Index</a></li>
-        <li><a href="http://localhost/livre-or/inscription.php">Inscription</a></li>
+        <li><a href="inscription.php">Inscription</a></li>
 		<li><a href="http://localhost/livre-or/commentaires.php">Commentaires</a></li>
 		<li><a href="http://localhost/livre-or/connexion.php">Connexion</a></li>
         <li><a href="http://localhost/livre-or/livre-or.php">Livre-or</a></li>
